@@ -16,6 +16,7 @@
 
 ## Serverless all the things
 
+- [Reference architecture - Serverless Web Application](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/web-app?WT.mc_id=startup-11040-chmaneu)
 - [CosmosDB Serverless](https://docs.microsoft.com/azure/cosmos-db/serverless?WT.mc_id=startup-11040-chmaneu)
 - [Azure SQL Serverless](https://docs.microsoft.com/azure/azure-sql/database/serverless-tier-overview?WT.mc_id=startup-11040-chmaneu)
 - [Azure Synapse Serverless](https://docs.microsoft.com/azure/synapse-analytics/sql/on-demand-workspace-overview?WT.mc_id=startup-11040-chmaneu)
