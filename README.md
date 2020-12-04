@@ -7,8 +7,7 @@
 
 ## Why Serverless ?
 
-- Want to learn more about [Talk ](https://www.dotconferences.com/2019/12/asim-hussain-javascript-saves-the-world) and [Learn some principles of Sustainable Software](https://docs.microsoft.com/learn/modules/sustainable-software-engineering-overview/?WT.mc_id=startup-11040-chmaneu) online.
-
+- Want to learn more about serverless and sustainability? [Watch Asim Talk about Serverless, Javascript and Sustainability](https://www.dotconferences.com/2019/12/asim-hussain-javascript-saves-the-world) and [Learn some principles of Sustainable Software](https://docs.microsoft.com/learn/modules/sustainable-software-engineering-overview/?WT.mc_id=startup-11040-chmaneu).
 
 ## Azure Functions: The elephant in the room
 
@@ -16,6 +15,10 @@
 - [Azure Functions GitHub repo](https://github.com/Azure/Azure-Functions)
 
 ## Serverless all the things
+
+- [CosmosDB Serverless](https://docs.microsoft.com/azure/cosmos-db/serverless?WT.mc_id=startup-11040-chmaneu)
+- [Azure SQL Serverless](https://docs.microsoft.com/azure/azure-sql/database/serverless-tier-overview?WT.mc_id=startup-11040-chmaneu)
+- [Azure Synapse Serverless](https://docs.microsoft.com/azure/synapse-analytics/sql/on-demand-workspace-overview?WT.mc_id=startup-11040-chmaneu)
 
 ## Do you want more reading?
 
